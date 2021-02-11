@@ -1,0 +1,15 @@
+/*reference color palette
+Yellow-green Crayola = #C5E99B
+Dark Sea Green = #8FBC94
+Steel Teal = #548687
+English Violet = #56445D
+Bud Green = # 6DA34D
+*/ 
+
+body{
+    background-color: #C5E99B
+}
+
+h1{
+    color: #56445D
+}
