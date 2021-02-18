@@ -11,5 +11,24 @@ body{
 }
 
 h1{
+    font-family: Montserrat, sans-serif;
     color: #56445D
+}
+
+.nav{
+    background-color: #B5D3E7;
+    display: block;
+    margin-top: 0;
+    padding: 2px;
+    border: 1px solid black;
+    width:150px;
+    text-align: center;
+}
+
+.title{
+    margin-bottom: 0;
+}
+
+img{
+    margin:20px, 0px, 20px, 0px;
 }
