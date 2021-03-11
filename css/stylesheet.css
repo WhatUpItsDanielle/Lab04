@@ -1,18 +1,24 @@
 /*reference color palette
-Yellow-green Crayola = #C5E99B
-Dark Sea Green = #8FBC94
-Steel Teal = #548687
-English Violet = #56445D
-Bud Green = # 6DA34D
+light brown = #EDDDD0
+red = #DB504A
+dark blue = #334259
+off white = #E5E5DC
+light blue = #A6CAD4
 */ 
 
 body{
-    background-color: #C5E99B
+    background-color: #EDDDD0
+}
+
+header{
+    background-color:#A6CAD4
+}
+footer{
+    background-color:#A6CAD4
 }
 
 h1{
     font-family: Montserrat, sans-serif;
-    color: #56445D
 }
 
 .nav{
