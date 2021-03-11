@@ -12,13 +12,26 @@ body{
 
 header{
     background-color:#A6CAD4
+    
 }
+
 footer{
+    display: flex;
+    justify-content: center;
+    
     background-color:#A6CAD4
 }
 
 h1{
     font-family: Montserrat, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 .nav{
@@ -36,5 +49,11 @@ h1{
 }
 
 img{
-    margin:20px, 0px, 20px, 0px;
+    margin:20px, 20px, 20px, 20px;
+}
+
+main{
+    display: grid;
+    grid-template-columns: auto 300px;
+    grid-template-rows: 500 auto;
 }
