@@ -1,5 +1,5 @@
-let courseList = {
-    "MATH 1350" : "Statistics for IT",
-    "COMM 2216" : "Bussiness Communications 2",
-    "ACIT 1620" : "Fundamental Web Technologies"
-}
+let courseList = [
+    { code:"MATH 1350", course: "Statistics for IT"},
+    { code:"COMM 2216", course: "Bussiness Communications 2"},
+    { code:"ACIT 1620", course: "Fundamental Web Technologies"}
+];
